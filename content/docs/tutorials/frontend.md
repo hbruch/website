@@ -15,6 +15,26 @@ Please note! We're improving qri every day. Some of these videos, while still us
 -------------------------------
 
 
+**Screencast Demo - app.qri.io** (filmed June 14, 2019)
+
+Someone has sent you a link to a dataset on the `app.qri.io` page, and you want to get that dataset onto your computer.
+
+What's covered: 
+
+* navigating app.qri.io
+* downloading qri
+* navigating through the qri app
+* add the dataset to your computer
+* exporting the data in a format you want
+
+<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Take a look at the tutorial post for a more indepth guide](/docs/tutorials/frontend_get_data_from_app_to_desktop)
+
+
+-------------------------------
+
+
 **Screencast Demo - 0.6.1** (filmed Dec 17, 2018)
 
 What's covered: 
