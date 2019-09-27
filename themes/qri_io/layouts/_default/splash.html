@@ -1,0 +1,20 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}}
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <style>
+    @media (min-width: 961px) {
+      .container{
+          width:960px;
+      }
+    }
+  </style>
+{{ end }}
+{{ define "main" }}
+<div class="splash">
+  {{ .Content }}
+</div>
+{{ end }}
+
+{{ define "footer" }}
+  {{ partial "footer" . }}
+{{ end }}
