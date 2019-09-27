@@ -1,0 +1,57 @@
+
+/*
+  cerulian-high: #0061A6
+  cerulian-low:  #00508A
+  freezie-high:  #4FC7F3
+  freezie-low:   #48B3DB
+  magenta-high:  #EC325A
+  magenta-low:   #CC294D
+  yellow-high:   #F8AB31
+  yellow-low:    #F0A22F
+  green-high:    #AFD148
+  green-low:     #9AB83F
+*/
+
+#splash {
+  color: white;
+  background: #F0A22F;
+}
+
+#splash .hero {
+  color: white;
+  padding-top: 8em;
+}
+
+#splash .logo {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+#splash .hero .screenshot {
+  box-shadow: 0 0 20px #00000055;
+}
+
+#splash .download {
+  background: #EC325A;
+  border: #EC325A;
+}
+
+#splash .triptych {
+  padding-top: 4em;
+  /* background: #4FC7F3; */
+}
+
+#splash .features {
+  /* background: #CC294D; */
+  padding-bottom: 6em;
+}
+
+@media (min-width: 961px) {
+  .container {
+      width:960px;
+  }
+  .splash {
+    font-family: "Avenir Next", "Avenir", Helvetica, sans-serif;
+  }
+}
