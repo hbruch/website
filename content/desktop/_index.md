@@ -32,13 +32,16 @@ layout: desktop_splash
     <div class="container">
       <div class="row my-5">
         <div class="col-md-4">
-          <h4>Version Data You Know</h4>
+          <h4>See Your Data Change</h4>
+          <p>Craft new versions with visual feedback on how your dataset has changed</p>
         </div>
         <div class="col-md-4">
-          <h4>Get Control of Your Metadata</h4>
+          <h4>Surf Thru Time</h4>
+          <p>Don't guess what changed, <i>Know</i> what changed, and who changed it.</p>
         </div>
         <div class="col-md-4">
-          <h4>Data goes Decentralized</h4>
+          <h4>Data Formats You Know</h4>
+          <p>Version common data formats like CSV, JSON, and XLSX. Qri understands each and can convert between formats for you.</p>
         </div>
       </div>
     </div>
@@ -50,8 +53,8 @@ layout: desktop_splash
           <img class="img-fluid" src="https://via.placeholder.com/324x200?text=Feature+Screenshot"/>
         </div>
         <div class="col-md-6 col-sm-12 p-4 text-md-left">
-          <h4>version control for data</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis dignissim blandit. Morbi a metus lacus. Nunc justo lacus, elementum a est sit amet, iaculis mollis velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+          <h4>Move past <pre>report_data_final_FINAL.xlsx</pre></h4>
+          <p></p>
         </div>
       </div>
       <div class="row d-md-flex flex-items-center flex-md-row-reverse mb-5">
@@ -61,6 +64,15 @@ layout: desktop_splash
         <div class="flex-auto col-md-6 col-sm-12 p-4 text-md-left">
           <h3>One Click Publishing</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis dignissim blandit. Morbi a metus lacus. Nunc justo lacus, elementum a est sit amet, iaculis mollis velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-sm-12 p-4">
+          <img class="img-fluid" src="https://via.placeholder.com/324x200?text=Feature+Screenshot"/>
+        </div>
+        <div class="col-md-6 col-sm-12 p-4 text-md-left">
+          <h4>Distributed Data is Healthy Data</h4>
+          <p>Qri is a </p>
         </div>
       </div>
       <div class="row mb-5">
