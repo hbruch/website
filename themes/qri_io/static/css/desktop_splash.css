@@ -1,4 +1,4 @@
-
+@import "mixins/_breakpoints.scss";
 /*
   cerulian-high: #0061A6
   cerulian-low:  #00508A
@@ -70,11 +70,6 @@ footer .wrap {
   color: #212629
 }
 
-.nav-item {
-  font-size: 18px;
-  font-weight: 500;
-}
-
 .btn-qri, .btn-qri:hover {
   color: #FFF;
 }
@@ -108,4 +103,24 @@ html.mac [data-os=windows] {
 
 html.windows [data-os=mac]{
   display: none !important;
+}
+
+.nav-item {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+@media (max-width: 576px) {
+  .nav-item {
+    font-size: 12px;
+    font-weight: 400;
+  }
+}
+
+.btn-qri-dark-blue {
+  background: #0061a6;
+}
+
+.btn-qri-dark-blue:hover {
+  background: #2b4a6d;
 }

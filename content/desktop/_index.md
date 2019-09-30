@@ -2,7 +2,7 @@
 title: "desktop"
 layout: desktop_splash
 ---
-<div id="splash" class="windows>
+<div id="splash" class="windows">
   <nav class="navbar navbar-expand-sm">
     <div style="display:inline-block;">
       <ul class="navbar-nav">
@@ -97,7 +97,7 @@ layout: desktop_splash
       </div>
       <div class="row">
         <div class="col-12 text-center my-5">
-          <a class="btn btn-qri btn-qri-freezie" href="https://github.com/qri-io/desktop" target="_blank">
+          <a class="btn btn-qri-dark-blue text-white" href="https://github.com/qri-io/desktop" target="_blank">
             <i class="fab fa-github"></i> &nbsp; Follow Qri Desktop on Github
           </a>
         </div>
