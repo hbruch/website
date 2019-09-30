@@ -66,7 +66,7 @@ layout: desktop_splash
     <div class="container">
       <div class="row  align-items-center">
         <div class="col-md-6 col-sm-12 p-4 text-center text-md-right">
-          <img class="img-fluid" src="https://via.placeholder.com/324x200?text=Feature+Screenshot"/>
+          <img class="img-fluid" style="border-radius:5px;border-radius:5px;box-shadow:0 10px 20px #00000090;" src="/screenshots/commit_section.png"/>
         </div>
         <div class="col-md-6 col-sm-12 p-4 text-center text-md-left">
           <h3>Goodbye, Filename Versioning</h3>
@@ -79,7 +79,7 @@ layout: desktop_splash
       </div>
       <div class="row d-md-flex flex-items-center flex-md-row-reverse align-items-center">
         <div class="flex-auto col-md-6 col-sm-12 p-4 text-center text-md-left">
-          <img class="img-fluid" src="/diagrams/data_exchange_2.svg"/>
+          <img class="img-fluid" src="/graphics/getting_started/cloud.png"/>
         </div>
         <div class="flex-auto col-md-6 col-sm-12 p-4 text-center text-md-left">
           <h3>One Click Publishing</h3>
@@ -88,7 +88,7 @@ layout: desktop_splash
       </div>
       <div class="row align-items-center">
         <div class="col-md-6 col-sm-12 p-4 text-center text-md-right">
-          <img class="img-fluid" src="https://via.placeholder.com/324x200?text=Feature+Screenshot"/>
+          <img class="img-fluid" src="/diagrams/data_exchange_2.svg"/>
         </div>
         <div class="col-md-6 col-sm-12 p-4 text-center text-md-left">
           <h4>Distributed Data is Healthy Data</h4>
