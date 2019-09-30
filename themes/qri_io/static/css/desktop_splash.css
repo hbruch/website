@@ -34,19 +34,9 @@
   box-shadow: 0 0 20px #00000055;
 }
 
-#splash .download {
-  background: #EC325A;
-  border: #EC325A;
-}
-
 #splash .triptych {
   padding-top: 4em;
   /* background: #4FC7F3; */
-}
-
-#splash .features {
-  /* background: #CC294D; */
-  padding-bottom: 6em;
 }
 
 @media (min-width: 961px) {
@@ -58,6 +48,14 @@
 footer #page_footer {
   font-family: "Avenir Next", "Avenir", Helvetica, sans-serif;
   background: #CC294D;
+}
+
+footer .site_links a {
+  margin: 0 4px
+}
+
+footer .wrap {
+  width: 100%;
 }
 
 .filename {
@@ -75,4 +73,39 @@ footer #page_footer {
 .nav-item {
   font-size: 18px;
   font-weight: 500;
+}
+
+.btn-qri, .btn-qri:hover {
+  color: #FFF;
+}
+
+.btn-qri-big {
+  font-weight: 600;
+  padding: 20px 30px;
+}
+
+.btn-qri-freezie {
+  background: #4FC7F3;
+  border: 0;
+}
+
+.btn-qri-freezie:hover, .btn-qri-freezie:active  {
+  background: #48B3DB;
+}
+
+.btn-qri-magenta {
+  background: #EC325A;
+  border: 0;
+}
+
+.btn-qri-magenta:hover, .btn-qri-magenta:active  {
+  background: #CC294D;
+}
+
+html.mac [data-os=windows] {
+  display: none !important;
+}
+
+html.windows [data-os=mac]{
+  display: none !important;
 }
