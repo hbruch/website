@@ -15,6 +15,7 @@
 #splash {
   color: white;
   background: #F0A22F;
+  font-family: "Avenir Next", "Avenir", Helvetica, sans-serif;
 }
 
 #splash .hero {
@@ -51,7 +52,21 @@
   .container {
       width:960px;
   }
-  .splash {
-    font-family: "Avenir Next", "Avenir", Helvetica, sans-serif;
-  }
+}
+
+footer #page_footer {
+  font-family: "Avenir Next", "Avenir", Helvetica, sans-serif;
+  background: #CC294D;
+}
+
+.filename {
+  margin: 20px 0;
+}
+
+.filename pre{
+  margin: 0
+}
+
+.filename i {
+  color: #212629
 }

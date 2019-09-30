@@ -23,7 +23,7 @@ layout: desktop_splash
       </div>
       <div class="row">
         <div class="col-12">
-          <img class="screenshot img-fluid" src="/screenshots/history_with_commits_mac.png"/>
+          <img class="screenshot img-fluid" src="/screenshots/history_with_commits_mac.png" style='border-radius: 5px'/>
         </div>
       </div>
     </div>
@@ -53,8 +53,12 @@ layout: desktop_splash
           <img class="img-fluid" src="https://via.placeholder.com/324x200?text=Feature+Screenshot"/>
         </div>
         <div class="col-md-6 col-sm-12 p-4 text-md-left">
-          <h4>Move past <pre>report_data_final_FINAL.xlsx</pre></h4>
-          <p></p>
+          <h3>Goodbye, Filename Versioning</h3>
+          <div class="d-flex filename justify-content-center">
+            <div class="align-self-center"><i class="far fa-file-excel fa-2x"></i></div>
+            <div class="align-self-center"><pre> report_data_final_FINAL.xlsx</pre></div>
+          </div>
+          <p>Dataset versioning means knowing who made changes, what they changed, and when. With Qri, you can bring order to the chaos of many people editing a common dataset.</p>
         </div>
       </div>
       <div class="row d-md-flex flex-items-center flex-md-row-reverse mb-5">
@@ -78,7 +82,7 @@ layout: desktop_splash
       <div class="row mb-5">
         <div class="col-12">
           <a class="btn btn-primary" href="https://github.com/qri-io/desktop">
-            Follow Qri Desktop on Github
+            <i class="fab fa-github"></i> &nbsp; Follow Qri Desktop on Github
           </a>
         </div>
       <div class="row d-md-flex flex-items-center flex-md-row-reverse">
