@@ -3,6 +3,21 @@ title: "desktop"
 layout: desktop_splash
 ---
 <div id="splash">
+  <nav class="navbar navbar-expand-sm">
+    <div style="display:inline-block;">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="/desktop">Overview</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/desktop/getting-started">Getting Started</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/docs">Help</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
   <div class="hero">
     <div class="container text-center">
       <div class="row">
