@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>desktop on qri</title>
+    <link>https://qri.io/desktop/</link>
+    <description>Recent content in desktop on qri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://qri.io/desktop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting started with Qri Desktop</title>
+      <link>https://qri.io/desktop/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qri.io/desktop/getting-started/</guid>
+      <description>Overview  Getting Started  Help     Getting Started with Qri Desktop Follow these steps to turn an ordinary CSV into a published &amp; versioned Qri dataset.    &amp;#9312;&amp;nbsp; Download &amp; Sign Up Download Qri Desktop for MacOS or Windows. On first run, you&#39;ll be prompted to sign up for a free Qri account. Your username will be used to describe each of your datasets, so pick something you&#39;ll be happy to share later!</description>
+    </item>
+    
+  </channel>
+</rss>
